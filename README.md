@@ -1,4 +1,4 @@
-[![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/2311.07533)
+[![Paper](https://img.shields.io/badge/paper-arXiv%3A2311.07533-B31B1B.svg)](https://arxiv.org/abs/2311.07533)
 
 # Transfer learning electronic structure and continuum model for twisted bilayer MoTe2
 
