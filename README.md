@@ -29,16 +29,16 @@ This research was partially supported by the National Science Foundation Materia
 ### Figures
 
 #### Figure 01: The relaxed structures from DFT calculation.
-<img src="https://github.com/maon-del/transfer-learning/blob/main/figures/fig1-2.pdf" width="400px">
+<img src="https://github.com/maon-del/transfer-learning/blob/main/figures/low_precision/fig1-2.png" width="400px">
 
 #### Figure 02: The comparative analysis of the band structures.
-<img src="https://github.com/maon-del/transfer-learning/blob/main/figures/Fig2_model.pdf" width="400px">
+<img src="https://github.com/maon-del/transfer-learning/blob/main/figures/low_precision/Fig2_model.png" width="400px">
 
 #### Figure 03: The variation in bandwidth versus diverse twist angle.
-<img src="https://github.com/maon-del/transfer-learning/blob/main/figures/Fig3_bandwidth.pdf" width="400px">
+<img src="https://github.com/maon-del/transfer-learning/blob/main/figures/low_precision/Fig3_bandwidth.png" width="400px">
 
 #### Figure 04: The complete continuum model.
-<img src="https://github.com/maon-del/transfer-learning/blob/main/figures/Fig4.pdf" width="400px">
+<img src="https://github.com/maon-del/transfer-learning/blob/main/figures/low_precision/Fig4.png" width="400px">
 
 #### Figure 05: Scheme of transfer learning.
-<img src="https://github.com/maon-del/transfer-learning/blob/main/figures/Fig5_transfer_learning.pdf" width="400px">
+<img src="https://github.com/maon-del/transfer-learning/blob/main/figures/low_precision/Fig5_transfer_learning.png" width="400px">
